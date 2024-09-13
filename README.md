@@ -1,5 +1,10 @@
-## Hi there 👋
+### Hi people 👋
 
+- I do stuff once in a blue moon whenever I feel like it
+- Mostly games or silly stuff
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalost07&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalost07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kalost07/kalost07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
