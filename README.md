@@ -2,6 +2,7 @@
 
 - I do stuff once in a blue moon whenever I feel like it
 - Mostly games or silly stuff
+- C++ because why not
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalost07&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalost07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
